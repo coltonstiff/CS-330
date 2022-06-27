@@ -1,1 +1,9 @@
-
+﻿  Source.cpp
+C:\Users\cstiff\Desktop\School\22EW5\CS-330 - Comp Graphics and Visualization\OpenGL_Projects\Final\Source.cpp(315,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\cstiff\Desktop\School\22EW5\CS-330 - Comp Graphics and Visualization\OpenGL_Projects\Final\Source.cpp(434,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\cstiff\Desktop\School\22EW5\CS-330 - Comp Graphics and Visualization\OpenGL_Projects\Final\Source.cpp(435,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\cstiff\Desktop\School\22EW5\CS-330 - Comp Graphics and Visualization\OpenGL_Projects\Final\Source.cpp(439,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\cstiff\Desktop\School\22EW5\CS-330 - Comp Graphics and Visualization\OpenGL_Projects\Final\Source.cpp(440,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\cstiff\Desktop\School\22EW5\CS-330 - Comp Graphics and Visualization\OpenGL_Projects\Final\Source.cpp(442,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\cstiff\Desktop\School\22EW5\CS-330 - Comp Graphics and Visualization\OpenGL_Projects\Final\Source.cpp(443,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Final.vcxproj -> C:\Users\cstiff\Desktop\School\22EW5\CS-330 - Comp Graphics and Visualization\OpenGL_Projects\Final\Debug\Final.exe
